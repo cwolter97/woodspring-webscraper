@@ -4,8 +4,8 @@ This script will get: Name, Location, Price, and TripAdvisor rating then put it 
 
 Uses:
 
-	-selenium for website rendering
+- selenium for website rendering
 
-	-bs4 for html parsing
+- bs4 for html parsing
 
-	-threading to be fast
+- threading to be fast
