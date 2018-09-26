@@ -71,7 +71,7 @@ __author__ = "Cody Wolter"
 __copyright__ = "Copyright 2018"
 __license__ = "GPL"
 __version__ = "1.0.0"
-__maintainer__ = "Yiggles Moto"
+__maintainer__ = "Cody Wolter"
 __email__ = "cwolter97@gmail.com"
 __status__ = "Production"
 
